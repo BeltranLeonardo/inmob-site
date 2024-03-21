@@ -6,6 +6,7 @@
   },
   "editor.quickSuggestions": {
     "strings": true
-  }
+  },
+  "workbench.editor.pinnedTabsOnSeparateRow": true
 
 }
